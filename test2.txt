@@ -1,2 +1,11 @@
 나는 아무 생각이 없다.
 왜냐하면 아무 생각이 없기 때문이다.
+
+[새폴더]
+test2.txt 추가
+git add
+git commit
+git push origin master
+
+[직박구리]
+git pull origin master
