@@ -1,10 +1,10 @@
-¾È³çÇÏ¼¼¿ä ¼³¼öÈ£ÀÔ´Ï´Ù.
-Àú´Â 21»ìÀÌ°í ±â¼÷»ç¿¡¼­ »ì°í ÀÖ½À´Ï´Ù.
+ï»¿ì•ˆë…•í•˜ì„¸ìš” ì„¤ìˆ˜í˜¸ì…ë‹ˆë‹¤.
+ì €ëŠ” 21ì‚´ì´ê³  ê¸°ìˆ™ì‚¬ì—ì„œ ì‚´ê³  ìˆìŠµë‹ˆë‹¤.
 
 
-git config --global user.name [ÀÌ¸§]
-git config --global user.email [ÀÌ¸ŞÀÏ]
-git add [ÆÄÀÏ ÀÌ¸§]
-git commit -m [¸Ş¼¼Áö]
-git remote add origin [ÀúÀå¼ÒÁÖ¼Ò]
+git config --global user.name [ì´ë¦„]
+git config --global user.email [ì´ë©”ì¼]
+git add [íŒŒì¼ ì´ë¦„]
+git commit -m [ë©”ì„¸ì§€]
+git remote add origin [ì €ì¥ì†Œì£¼ì†Œ]
 git push origin master
